@@ -1,0 +1,36 @@
+
+.khung1>h2{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #186bcc;
+    padding: 10px 10px;
+    margin-top: 15px;
+}
+.khung1>ul{
+    list-style:none;
+    margin: 0px 5px 5px 5px;
+    padding: 5px;
+}
+.khung1>ul>li{
+    font-family: 'Times New Roman', Times, serif;
+    height: 55px;
+    padding: 5px 15px 20px 15px;
+     color: #3A4A58;
+     border-radius: 5px 5px 5px 0px;
+     box-shadow: grey 0 0 2px;
+}
+.khung1>ul>li:hover{
+    text-decoration: underline;
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.khung1>ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+.khung1>ul>li>a:hover{
+    text-decoration: underline;
+    color: blue;
+
+}

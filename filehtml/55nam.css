@@ -1,0 +1,30 @@
+#boxtienich1{
+    width: 850px;
+    height: 650px;
+    
+    border: 1px solid #dadada;
+  margin: 10px;
+}
+#video55nam{
+    
+  border: 1px solid #dadada;
+  margin: 20px 10px;
+  float: left;
+}
+#anh55nam{
+    width: 290px;
+    height: 600px;
+    
+  margin: 20px 10px;
+  float: left;
+}
+#anh1{
+    width: 290px;
+    height: 180px;
+    background-color: honeydew;
+  margin: 5px 0px; 
+}
+article>h4{
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}

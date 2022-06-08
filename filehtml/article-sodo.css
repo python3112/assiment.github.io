@@ -1,0 +1,21 @@
+.boxar{
+    border: 1px solid greenyellow;
+    width: 840px;
+    box-shadow: 0 0 15px grey;
+    margin-top: 25px;
+}
+.boxar>a{
+    float: left;
+    font-weight: bolder;
+    text-decoration: none;
+    color: red;
+    margin-left: 250px;
+    
+}
+.boxar img{
+    padding: 25px 20px 20px 20px;
+}
+.boxar>a:hover{
+    color: blue;
+    text-decoration: underline;
+}

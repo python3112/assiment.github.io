@@ -1,0 +1,184 @@
+.boxtintuc{
+    margin: 35px 10px 15px 50px;
+    width: 800px;
+    height: 200px;
+    border: 1px solid #00CCFF;
+    border-radius:20px;
+    
+}
+.boxtintuc img{
+    width: 200px;
+    height: 100px;
+    float: left;
+    padding: 20px 20px 20px 10px;
+}
+
+.boxtintuc a{
+    color: black;
+    text-decoration: none;
+}
+.boxtintuc:hover{
+    box-shadow: 0 0 15px coral ;
+}
+.boxtintuc a:hover{
+    text-decoration: none;
+    color:#2E89FF;
+}
+.lienket{
+    margin: 25px;
+}
+article{
+    height: 3200px;
+}
+aside{
+    height: 1900px;
+}
+#tieudiem
+{
+    margin:10px;
+    background-color:#0C7CD5;
+    height: 50px;
+    width: 850px;
+}
+#tenboxdoantruong{
+    background-color:#0C7CD5;
+    height: 40px;
+    width: 428px;
+    line-height:40px;
+}
+#boxdoantruong{
+    float: left;
+    width: 425px;
+    height: 950px;
+    border: 1px solid #dadada; 
+}
+.doantruong{
+    width: 159px;
+    height: 400px;
+    float: left;
+    padding: 20px;
+}
+.doantruong h4:hover{
+    color: blue;
+}
+#box1-doantruong{ 
+    float: left;
+    margin: 5px;
+}
+
+
+#boxvideo1{
+    width: 428px;
+    height: 700px;
+    float: left;
+}
+
+#box1-doantruong{ 
+    float: left;
+    margin: 5px;
+}
+#video{
+    margin: 5px;
+    float: left;
+    
+}
+#tieudevideo{
+    background-color:#0C7CD5;
+    height: 50px;
+    width: 428px;    
+}
+#boxvideo1{
+border: 1px solid #dadada;
+height: 520px;
+width: 425px; 
+}
+#videoytb{
+    padding: 10px;
+    border-bottom: solid 1px #dadada;
+}
+#videoytb h5 a
+{
+color: black;
+    text-decoration: none;
+}
+#videoytb h5 a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.danhsachvideo>li>a{
+    color: black;
+    margin-left:0px;
+   line-height: 10px;
+    
+}
+.danhsachvideo>li>a:hover{
+    color: red;
+    text-decoration:underline ;
+}  
+#box2-doantruong{
+    clear: both;
+}
+.cot1{
+    float: left;
+}
+#goccbgv{
+    margin: 5px;
+    float: left;
+    
+}
+#tieudegoccbgv{
+    background-color:#0C7CD5;
+    height: 50px;
+    width: 428px;
+ }
+ #goccbgv1{
+    height: 850px;
+    width: 425px;
+    border: 1px #dadada solid;
+ }
+#goccbgv2{
+    width: 350px;
+    height: 225px;
+    margin: 25px;
+    padding: 15px;
+   font-weight: bolder;
+    border: #dadada 1px solid;
+}
+#goccbgv2 a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+    color: black;
+}
+#goccbgv2 a:hover{
+    color: seagreen;
+    text-decoration: underline;
+}
+#sogiaoduc{
+    margin: 5px;
+    float: left;
+    
+}
+#tieudesogiaoduc{
+    background-color:#0C7CD5;
+    height: 50px;
+    width: 428px;
+ }
+ #sogiaoduc1{
+    height: 500px;
+    width: 425px;
+    border: 1px #dadada solid;
+ }
+ #sogiaoduc2{
+     list-style:square ;
+
+ }
+ #sogiaoduc2 li a {
+     color: #2E89FF;
+     margin-left: 0px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: inherit;
+ }
+ #sogiaoduc2 li a:hover{
+     color: red;
+     text-decoration: underline;
+ }

@@ -1,0 +1,20 @@
+.anh-bann{
+   margin-left: 10%;
+   box-shadow: 2px 2px 2px 2px black;
+   width:80% ;
+   height: 300px;
+}
+.van-ban{
+    width: 95%;
+}
+.van-ban > p{
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.thong-tin{
+    width: 95%;
+}
+.thong-tin > p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
